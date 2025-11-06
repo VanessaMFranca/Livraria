@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "titulo": "clean Code",
+        "autor": "Robert C. Martin",
+        "categoria": "Programação",
+        "ano": 2008
+    },
+    {
+        "id": 2,
+        "titulo": " O Programador Pragmático",
+        "autor": "Andrew Hunt",
+        "categoria": "Programação",
+        "ano": 1999
+    }
+]
